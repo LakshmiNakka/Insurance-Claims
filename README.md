@@ -57,5 +57,4 @@ Key insights from visualizations:
 
 Logistic regression to find critical claims-SAS 
 
-SVM CLASSIFIER:
-file:///C:/Users/BHUMIREDDY/Desktop/machinelearning/Assignment%20SVM_lakshmiN.html
+SVM CLASSIFIER Python
